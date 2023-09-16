@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/entaxy-project/entaxy.svg)](https://travis-ci.org/entaxy-project/entaxy)
-[![Coverage Status](https://coveralls.io/repos/github/entaxy-project/entaxy/badge.svg)](https://coveralls.io/github/entaxy-project/entaxy)
 
 # Entaxy
 
